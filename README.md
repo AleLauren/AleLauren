@@ -2,7 +2,7 @@
 <img align="right" height="120px" alt="GIF" style="margin-top:-20px" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" />
 <h1>  Hello World!! 🌎 </h1>
 
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Alessandra 
+### Hi, I'm Alessandra! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
 - 🌱 I’m currently learning Java, Javascript and automation frameworks such as Appium, RobotFramework, and Cypress.
@@ -25,6 +25,15 @@
 <a href="https://linkedin.com/in/alessandra-borges-b20b1b1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrk-silva" height="30" width="40" /></a>
 <a href="https://instagram.com/alelauren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrk_fps" height="30" width="40" /></a>
 </p>
+
+******
+
+<div align="center">
+  <a href="https://github.com/AleLauren">
+  <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AleLauren&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AleLauren&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
 
 <!---
 AleLauren/AleLauren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

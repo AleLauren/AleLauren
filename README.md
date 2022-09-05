@@ -1,6 +1,7 @@
 
 <img align="right" height="120px" alt="GIF" style="margin-top:-20px" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" />
-<h1>Hello World!! <img align="left" src="https://i.pinimg.com/originals/24/0b/bb/240bbb55447c1deafc0e9fc6cf1a2c8c.gif" width="50px"> </h1>
+<img align="left" src="https://i.pinimg.com/originals/24/0b/bb/240bbb55447c1deafc0e9fc6cf1a2c8c.gif" width="50px">
+<h1>Hello World!! </h1> 
 
 ### Hi, I'm Alessandra! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 

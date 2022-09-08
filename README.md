@@ -32,12 +32,13 @@ Not @ Work: 💪 - 📚 - ✈ - ⛰ - 🌿 - 👩‍🍳 - 📸
 ******
 
 <div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleLauren&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
   <a href="https://github.com/AleLauren">
-  <img height="120px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AleLauren&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="120px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AleLauren&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="120px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AleLauren&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="120px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AleLauren&layout=compact&langs_count=8&theme=buefy"/>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleLauren&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </div>
 
 <!---

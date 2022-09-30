@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning Java, Javascript and automation frameworks such as Appium, RobotFramework, and Cypress.
-- 🎯 Future Goals : Learn more technologies - Learning to become a full-stack engineer. 
+- 🎯 Future Goals : Learn more technologies. 
 - 🤝 I’m looking to collaborate with other content creators
 - ⚡ Fun facts: I love DIY 🎨
 
